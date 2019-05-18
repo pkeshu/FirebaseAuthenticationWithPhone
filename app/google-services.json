@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "166408061532",
+    "firebase_url": "https://phone-authenticationotp.firebaseio.com",
+    "project_id": "phone-authenticationotp",
+    "storage_bucket": "phone-authenticationotp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166408061532:android:447dbe614a4aa094",
+        "android_client_info": {
+          "package_name": "com.keshar.phonenumberauthenticationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166408061532-vrb740i2gr9048ja9iajtdgalajri8i2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.keshar.phonenumberauthenticationfirebase",
+            "certificate_hash": "bd5909c9c3be14b9e73c8520860c9dabf3c51d47"
+          }
+        },
+        {
+          "client_id": "166408061532-832fu83g8tp1eebsope1984cbhkd3ue4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiJGRCBIXA2lFtceQx_c3d3PPw66bff_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166408061532-832fu83g8tp1eebsope1984cbhkd3ue4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
